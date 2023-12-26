@@ -1,4 +1,4 @@
- 3 import streamlit
+import streamlit
 
 streamlit.title('My Parents New Healthy Diner')
 "Breakfast Menu"
